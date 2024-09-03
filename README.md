@@ -1,2 +1,3 @@
 # 3b
-inicio 🏁
+#para iniciar 🏁{esse projeto de licince MIT }
+
