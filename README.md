@@ -1,2 +1,2 @@
 # 3b
-body{color🏁}
+inicio 🏁
